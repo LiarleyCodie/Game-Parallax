@@ -1,4 +1,4 @@
-# :city_sunset: [Night City Parallax]() :city_sunset:
+# :city_sunset: [Night City Parallax](https://liarleycodie.github.io/Game-Parallax/) :city_sunset:
 
 :video_game: This effect was created using PhaserJS.
 
