@@ -1,0 +1,9 @@
+:root {
+  font-size: 62.5%;
+  font-family: monospace;
+}
+
+body {
+  min-height: 100dvh;
+  font-size: 1.4rem;
+}
