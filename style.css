@@ -5,5 +5,13 @@
 
 body {
   min-height: 100dvh;
+  margin: 0;
   font-size: 1.4rem;
+  display: grid;
+  place-items: center;
+  background: #121214;
+}
+
+canvas {
+  width: 80%;
 }
